@@ -36,6 +36,7 @@ Identifies corners in the grayscale image.
 - NumPy
 
 ## 👨‍💻 Author
-[Your Name]
+Namay Malekar
+
 
 
