@@ -9,7 +9,7 @@ This project demonstrates three classic computer vision techniques using OpenCV 
 - Harris Corner Detection for identifying corner features
 
 ### 🖼 Input Image
-The same landscape images was used for all operations.
+The same(two similar images) landscape images was used for all operations.
 
 ### 📁 Folder Structure
 - `image1.png,image2.png` - Input image
